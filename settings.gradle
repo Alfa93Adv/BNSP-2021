@@ -1,0 +1,2 @@
+rootProject.name='BNSP-2021'
+include ':app'
